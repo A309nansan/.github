@@ -164,6 +164,8 @@
 ---
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![jpa](https://img.shields.io/badge/Spring_data_jpa-F37C20?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+  
   ![springcloudgateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-006600?style=for-the-badge&logo=spring&logoColor=white)
   ![eureka](https://img.shields.io/badge/Spring%20Cloud%20Eureka-B1361E?style=for-the-badge&logo=spring&logoColor=white)
   ![config](https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
