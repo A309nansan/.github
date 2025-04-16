@@ -184,6 +184,7 @@
 
 ### DB & Storage
 ---
+![vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=Vault&logoColor=black)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
