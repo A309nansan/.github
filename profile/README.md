@@ -154,9 +154,9 @@
   ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
 
-  - AWS EC2 (Ubuntu)
-  - Nginx
-  - Docker ( `27.5.1` )
+  - AWS EC2 (Ubuntu `22.04`)
+  - Nginx `1.18.0`
+  - Docker `28.0.1`
   - Jenkins (CI/CD) `2.479.3`
   - Gradle `8.11.1`
 
@@ -165,16 +165,16 @@
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![jpa](https://img.shields.io/badge/Spring_data_jpa-F37C20?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-  
+
   ![springcloudgateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-006600?style=for-the-badge&logo=spring&logoColor=white)
   ![eureka](https://img.shields.io/badge/Spring%20Cloud%20Eureka-B1361E?style=for-the-badge&logo=spring&logoColor=white)
   ![config](https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-- JAVA (OpenJDK `17.0.13`)
-- SpringBoot `3.3.6`
-- Spring Cloud Gateway
-- Spring Cloud Eureka
-- Spring Cloud Config
+- JAVA (OpenJDK `17.0.14`)
+- SpringBoot `3.4.1`
+- Spring Cloud Gateway `4.2.2`
+- Spring Cloud Eureka `4.2.1`
+- Spring Cloud Config `4.2.2`
 
 ### FrontEnd
 ---
@@ -192,11 +192,11 @@
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
 
-- Vault
+- Vault `latest`
 - MySQL `8.0.4`
-- MongoDB
-- Redis `7.4.2`
-- Minio
+- MongoDB `latest`
+- Redis `latest`
+- Minio `latest`
 
 <br>
 
