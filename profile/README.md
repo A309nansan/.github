@@ -1,6 +1,5 @@
 # 프로젝트 개요
 
-<!-- ![navi](/uploads/9f10badbe45d88966ba3f57a404a47c2/navi.png) -->
 <table>
   <tr>
     <td>
