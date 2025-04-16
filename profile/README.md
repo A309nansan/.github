@@ -114,7 +114,7 @@
 
 ## 데이터베이스
 
-![erd](erd.png)
+![erd](image-2.png)
 
 <br>
 
