@@ -207,6 +207,8 @@
 ![addchild](add_child.png) | ![addchild](select_child.png)
 
 ## 학습 시작하기
+수 인식, 혹은 사칙연산 카드를 클릭하여 학습할 내용 선택
+
 <img src="main_list.png" width="50%" height="100%"/>
 
 ### 수 인식(EN) 학습 시작하기
@@ -218,3 +220,22 @@
 - **수 인식(EN) 문제 유형**
 
   ![alt text](image.png)
+
+### 사칙연산(M) 학습 시작하기
+- **과(1 ~ 6과) 선택 및 학습할 유형형 선택**
+  | 과 선택 | 유형 선택 |
+  |---|---|
+  ![m_category](m_category.png) | ![m_chapter](m_chapter.png)
+
+- **문제 풀이**
+
+  ![m_problem1](m_problem1.png) | ![m_problem2](m_problem2.png)
+  |---|---|
+
+- **통계**
+  | 날짜 별 문제 풀이 목록 | 문제 오답 유형 및 원인 확인 | 카테고리 전체 문제 풀이 통계 |
+  |---|---|---|
+  ![m_statistics1](m_statistics1.png) | ![m_statistics2](m_statistics2.png)| ![m_statistics3](m_statistics3.png)
+
+
+
