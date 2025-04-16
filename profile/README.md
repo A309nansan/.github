@@ -157,7 +157,7 @@
   - AWS EC2 (Ubuntu `22.04`)
   - Nginx `1.18.0`
   - Docker `28.0.1`
-  - Jenkins (CI/CD) `2.479.3`
+  - Jenkins (CI/CD) `2.501`
   - Gradle `8.11.1`
 
 ### BackEnd
