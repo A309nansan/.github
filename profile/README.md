@@ -172,9 +172,9 @@
 
 - JAVA (OpenJDK `17.0.14`)
 - SpringBoot `3.4.1`
-- Spring Cloud Gateway `4.2.2`
-- Spring Cloud Eureka `4.2.1`
-- Spring Cloud Config `4.2.2`
+- Spring Cloud Gateway `4.1.0`
+- Spring Cloud Eureka `4.0.3`
+- Spring Cloud Config `4.1.0`
 
 ### FrontEnd
 ---
@@ -192,11 +192,11 @@
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
 
-- Vault `latest`
+- Vault `1.19.0`
 - MySQL `8.0.4`
-- MongoDB `latest`
-- Redis `latest`
-- Minio `latest`
+- MongoDB `7.0.17`
+- Redis `7.4.2`
+- Minio `RELEASE.2025-03-12T18-04-18Z`
 
 <br>
 
