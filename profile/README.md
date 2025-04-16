@@ -6,12 +6,13 @@
       <img src="soonamu.png" alt="Navi" width="70px">
     </td>
     <td>
-      <b>수나무</b><br/>
-       수학을 키우는 작은 씨앗<br/>
-       한 걸음씩 수학의 숲으로!
+      <b style="font-size: 22px;">수나무</b><br/>
+      <p style="font-size: 17px;">수학을 키우는 작은 씨앗 한 걸음씩 수학의 숲으로!</p>
     </td>
   </tr>
 </table>
+
+![main](main.png)
 
 <br>
 
