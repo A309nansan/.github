@@ -20,11 +20,13 @@
 
 1. [서비스 소개](#서비스-소개)
 2. [서비스 목표](#서비스-목표)
-3. [팀원 소개](#팀원-소개)
-4. [프로젝트 설계 및 구성](#프로젝트-설계-및-구성)  
-   4-1. [ERD 및 구조](#데이터베이스-erd)  
-   4-2. [사용 기술](#사용-기술)  
-   4-3. [주요 기능](#주요-기능)  
+3. [프로젝트 기간](#프로젝트-기간)
+4. [팀원 소개](#팀원-소개)
+5. [프로젝트 설계 및 구성](#프로젝트-설계-및-구성)  
+   5-1. [서비스 아키텍처](#서비스-아키텍처)  
+   5-2. [데이터베이스 설계](#데이터베이스)  
+   5-3. [사용 기술](#사용-기술)  
+   5-4. [주요 기능](#주요-기능)  
 
 <br>
 
@@ -101,3 +103,95 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+# 프로젝트 설계 및 구성
+
+## 서비스 아키텍처
+
+![architecture](architecture.png)
+
+## 데이터베이스
+
+![erd](erd.png)
+
+<br>
+
+## 사용 기술
+
+### 운영체제
+---
+- **로컬 개발 환경:** 
+  
+  ![windows11](https://img.shields.io/badge/Windows%2011-%230079d6.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+- **서버 운영 환경:**
+
+  ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+  ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+### IDE & Editor
+---
+  ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![vscode](https://img.shields.io/badge/vscode-0065A9?style=for-the-badge&logo=vscode&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+### 버전 & 이슈 관리 및 협업 도구
+---
+  ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+### 배포 환경 및 빌드 도구
+---
+  ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+  ![jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+
+  - AWS EC2 (Ubuntu)
+  - Nginx
+  - Docker ( `27.5.1` )
+  - Jenkins (CI/CD) `2.479.3`
+  - Gradle `8.11.1`
+
+### BackEnd
+---
+  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![springcloudgateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-006600?style=for-the-badge&logo=spring&logoColor=white)
+  ![eureka](https://img.shields.io/badge/Spring%20Cloud%20Eureka-B1361E?style=for-the-badge&logo=spring&logoColor=white)
+  ![config](https://img.shields.io/badge/Spring%20Cloud%20Config-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+- JAVA (OpenJDK `17.0.13`)
+- SpringBoot `3.3.6`
+- Spring Cloud Gateway
+- Spring Cloud Eureka
+- Spring Cloud Config
+
+### FrontEnd
+---
+  ![flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+  ![dart](https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+- Flutter `3.29.0`
+- Dart `3.7.0`
+
+### DB & Storage
+---
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
+
+- MySQL `8.0.4`
+- MongoDB
+- Redis `7.4.2`
+- Minio
+
+<br>
