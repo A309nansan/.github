@@ -92,7 +92,7 @@
     <td align="center" width="17%;">
       <img src="bunny4.png" alt=""/>
       <br/><sub><b>이수호</b><br>
-      <span>BE</span>
+      <span>FE</span>
       </sub>
     </td>
     <td align="center" width="17%;">
