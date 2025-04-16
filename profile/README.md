@@ -219,10 +219,12 @@
 
 - **수 인식(EN) 문제 유형**
 
+  ![alt text](image-1.png)
+
   ![alt text](image.png)
 
 ### 사칙연산(M) 학습 시작하기
-- **과(1 ~ 6과) 선택 및 학습할 유형형 선택**
+- **과(1 ~ 6과) 선택 및 학습할 유형 선택**
   | 과 선택 | 유형 선택 |
   |---|---|
   ![m_category](m_category.png) | ![m_chapter](m_chapter.png)
