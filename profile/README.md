@@ -190,6 +190,7 @@
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
 
+- Vault
 - MySQL `8.0.4`
 - MongoDB
 - Redis `7.4.2`
