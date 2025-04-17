@@ -193,12 +193,14 @@
 ![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 - Vault `1.19.0`
 - MySQL `8.0.4`
 - MongoDB `7.0.17`
 - Redis `7.4.2`
 - Minio `RELEASE.2025-03-12T18-04-18Z`
+- RabbitMQ `4.1.0`
 
 <br>
 
