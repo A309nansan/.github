@@ -76,7 +76,7 @@
     <td align="center" width="17%;">
       <img src="bunny1.png" alt=""/>
       <br/><sub><b>오지원</b><br>
-      <span>BE</span>
+      <span>BE/PM</span>
       </sub>
     </td>
     <td align="center" width="17%;">
