@@ -85,8 +85,6 @@
       <span>Infra/BE</span>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="17%;">
       <img src="bunny9.png" alt=""/>
       <br/><sub><b>조건희</b><br>
@@ -105,8 +103,6 @@
         <span>FE</span>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="17%;">
       <img src="bunny8.png" alt=""/>
       <br/><sub><b>배석진</b><br>
