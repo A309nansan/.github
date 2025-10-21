@@ -115,7 +115,7 @@
       </sub>
     </td>
     <td align="center" width="17%;">
-      <img src="bunny10.png" alt=""/>
+      <img src="bunny11.png" alt=""/>
       <br/><sub><b>이상화</b><br>
         <span>ML</span>
       </sub>
