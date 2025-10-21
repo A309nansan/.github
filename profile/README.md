@@ -91,6 +91,8 @@
       <span>FE</span>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="17%;">
       <img src="bunny4.png" alt=""/>
       <br/><sub><b>이수호</b><br>
