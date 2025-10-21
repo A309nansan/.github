@@ -85,6 +85,8 @@
       <span>Infra/BE</span>
       </sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="17%;">
       <img src="bunny9.png" alt=""/>
       <br/><sub><b>조건희</b><br>
@@ -100,6 +102,27 @@
     <td align="center" width="17%;">
       <img src="bunny8.png" alt=""/>
       <br/><sub><b>박해구</b><br>
+        <span>FE</span>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="17%;">
+      <img src="bunny2.png" alt=""/>
+      <br/><sub><b>배석진</b><br>
+        <span>팀장</span><br/>
+        <span>ML</span>
+      </sub>
+    </td>
+    <td align="center" width="17%;">
+      <img src="bunny3.png" alt=""/>
+      <br/><sub><b>이상화</b><br>
+        <span>ML</span>
+      </sub>
+    </td>
+    <td align="center" width="17%;">
+      <img src="bunny4.png" alt=""/>
+      <br/><sub><b>윤태한</b><br>
         <span>FE</span>
       </sub>
     </td>
